@@ -68,7 +68,6 @@
     left: 90%;
     animation-delay: 4s;
   }
-  
 
 .mailbox {
     display: flex;
@@ -205,6 +204,7 @@ body {
     height: 45px;
     width: 45px;
     background: #B197FC;
+   
     opacity: 0.3;
 }
 

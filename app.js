@@ -6,3 +6,5 @@ function toggleMessage() {
         messageContent.style.display = "none";
     }
 }
+
+
